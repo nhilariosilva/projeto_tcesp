@@ -1,1 +1,2 @@
+Scrapping[[:space:]]Transparência/Data/base2022subitensagrupadospormesV2.parquet filter=lfs diff=lfs merge=lfs -text
 Scrapping[[:space:]]Transparência/Data/data2010to2022.parquet filter=lfs diff=lfs merge=lfs -text
