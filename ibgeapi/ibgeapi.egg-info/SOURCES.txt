@@ -1,5 +1,0 @@
-setup.py
-ibgeapi/ibgeapi.egg-info/PKG-INFO
-ibgeapi/ibgeapi.egg-info/SOURCES.txt
-ibgeapi/ibgeapi.egg-info/dependency_links.txt
-ibgeapi/ibgeapi.egg-info/top_level.txt
